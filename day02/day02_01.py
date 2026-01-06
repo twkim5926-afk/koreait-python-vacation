@@ -2,7 +2,7 @@
 
 
 # replace("바꾸고 싶은 문자열", 대체도리 문자열")
-a = life is too short you need pythpn
+a = "life is too short you need python"
 a_replace = a.replace(" ", "_")
 print(a_replace)
 a_replace = a.replace("python ", "")
